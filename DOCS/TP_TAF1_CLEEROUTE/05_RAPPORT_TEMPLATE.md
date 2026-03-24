@@ -14,31 +14,27 @@
 
 # ╚══════════════════════════════════════╝
 
-**Université :** [Nom de l'université]
+**Université de Yaoundé 1** 
 
-**Département :** Génie Informatique
+**Département d'informatique**
 
 **UE :** INF222 — Développement Backend (EC1)
 
-**Travail à Faire (TAF 1)** : Apprentissage structuré avec CleeRoute et développement d'une API Blog
+**(TAF 1)** : Apprentissage structuré avec CleeRoute et développement d'une API Blog
 
 ---
 
 **Présenté par :**
-
-| Champ     | Valeur                             |
-| --------- | ---------------------------------- |
-| Nom       | [TON NOM]                          |
-| Prénom    | [TON PRÉNOM]                       |
-| Matricule | [TON MATRICULE]                    |
+ 
+| Nom       | [NGASSAM DJOUATOM                   |
+| Prénom    | [MARC AURELIEN]                       |
+| Matricule | [24F2841]                    |
 | Filière   | Génie Informatique / Data Sciences |
-| Niveau    | [Ton niveau]                       |
+| Niveau    | [Licence 2]                       |
 
 ---
 
 **Proposé par :** Charles Njiosseu, PhD Student
-
-**Date de soumission :** 23 Mars 2026
 
 ---
 
@@ -50,15 +46,15 @@
 
 ## Introduction
 
-Ce rapport présente le travail réalisé dans le cadre du TAF 1 de l'unité d'enseignement INF222 — Développement Backend. Ce travail poursuit trois objectifs principaux :
+Dans ce rapport, il est question de réaliser présente le travail réalisé une API backend capable de pouvoir gérer un blog dans le cadre du TAF 1 de l'unité d'enseignement INF222 — Développement Backend. Ce travail poursuit trois objectifs principaux :
 
-**Premier objectif** : Structurer l'apprentissage du développement web en utilisant la plateforme CleeRoute, un outil d'apprentissage personnalisé et adaptatif.
+* Structurer l'apprentissage du développement web en utilisant la plateforme CleeRoute, un outil d'apprentissage personnalisé et adaptatif.
 
-**Deuxième objectif** : Développer un esprit critique en comparant les contenus proposés par CleeRoute avec d'autres sources de connaissance, afin de valider, compléter ou nuancer les informations reçues.
+* Développer un esprit critique en comparant les contenus proposés par CleeRoute avec d'autres sources de connaissance, afin de valider, compléter ou nuancer les informations reçues.
 
-**Troisième objectif** : Produire un premier contenu technique concret — une API REST backend pour la gestion d'un blog — en appliquant les bonnes pratiques du développement web moderne.
+* Produire un premier contenu technique concret — une API REST backend pour la gestion d'un blog — en appliquant les bonnes pratiques du développement web moderne.
 
-Ce rapport est organisé en trois parties : l'utilisation de la plateforme CleeRoute (Partie 1), le développement de l'API Blog (Partie 2), et une analyse critique de la plateforme (Partie 3).
+Ce rapport se présente sous trois pricipales parties à savoir : l'utilisation de la plateforme cleeRoute , le développement de l'API Blog , et enfin une analyse critique de la plateforme .
 
 ---
 
@@ -364,7 +360,7 @@ Exemple de structure :
 
 [Résume en 150-200 mots :]
 
-Ce TAF 1 m'a permis de [ce que tu as appris]. À travers l'utilisation de CleeRoute, j'ai [ce que la plateforme t'a apporté]. Le développement de l'API Blog m'a permis de [compétences acquises].
+De ce travail à faire j'ai pu . À travers l'utilisation de CleeRoute, j'ai [ce que la plateforme t'a apporté]. Le développement de l'API Blog m'a permis de [compétences acquises].
 
 Les points essentiels retenus sont :
 
@@ -376,7 +372,7 @@ Les points essentiels retenus sont :
 
 ---
 
-*Rapport rédigé par [Prénom Nom] — INF222 EC1 — Mars 2026*
+*Rapport rédigé par [NGASSAM DJOUATOM MARC AURELIEN] — INF222 EC1 — Mars 2026*
 
 ---
 
