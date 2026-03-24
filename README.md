@@ -1,7 +1,5 @@
 # TP CleeRoute — INF222
 
-Bonjour,
-
 Ce depot regroupe le travail que j'ai realise dans le cadre du **TAF1 INF222** : utilisation de la plateforme **CleeRoute** et developpement d'une **API REST** pour un blog (backend Node.js).
 
 ## Contenu du depot
